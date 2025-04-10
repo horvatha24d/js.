@@ -17,16 +17,3 @@ if(price === undefined) {
     alert(total);
 }
 
-/*
-    Input:
-        Hány jegyet kér?
-        Milyen típusú jegyet kér? (student | adult)
-
-        A diák jegy ára: 300ft
-        Felnőtt jegy ára: 350ft
-        Nyugdíjas jegy ára: 280ft
-        Tíznél több jegy vásárlása esetén jár 10% kedvezmény
-
-
-
-*/
